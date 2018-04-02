@@ -4,9 +4,9 @@ A project to "Bring Existing Netlists, Components and Hardware to Open File Form
 
 This is a repository for free and freely distributable EDA libraries 
 
-The repository has been inaugurated with the default footprint library from the freeware Protel Autotrax EDA package, along with the freely distributable rpm of CADSOFT Eagle Binary format parts libraries.
+The repository has been inaugurated with the default footprint library from the freeware Protel Autotrax EDA package, along with the freely distributable .rpm of CADSOFT Eagle Binary format parts libraries.
 
-This repository is a resource for FLOSS EDA toolchains and is intened to allow FLOSS EDA users to leverage existing community contributed works.
+This repository is a resource for FLOSS EDA toolchains and is intended to allow FLOSS EDA users to leverage existing community contributed works.
 
 It is also anticipated that the repository will be of use to those seeking to replicate or repair vintage hardware.
 
