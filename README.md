@@ -2,7 +2,7 @@
 
 A project to "Bring Existing Netlists, Components and Hardware to Open File Formats"
 
-This a repository for free and freely distributable EDA libraries 
+This is a repository for free and freely distributable EDA libraries 
 
 The repository has been inaugurated with the default footprint library from the freeware Protel Autotrax EDA package, along with the freely distributable rpm of CADSOFT Eagle Binary format parts libraries.
 
@@ -23,3 +23,5 @@ License: other
     modification, are permitted in any medium without royalty
     provided the copyright notice and this notice are
     preserved. No warranty of any kind is implied or offered.
+
+The CADSOFT Eagle parts libraries reside within the subfolder /usr/share/eagle/lbr of the RPM.
